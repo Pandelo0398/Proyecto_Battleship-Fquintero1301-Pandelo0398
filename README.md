@@ -1,6 +1,8 @@
-En este proyecto se intento recrear el juego de mesa HUNDIR LA FLOTA.
+Proyecto Battleship Bootcamp Data Science
 
-Aplicamos Numpy, y Flujo de control.
+En este proyecto se intento recrear el juego de mesa BATTLESHIP(HUNDIR LA FLOTA).
+
+Aplico conocimientos Numpy, y Flujo de control.
 
 Presenta:
 Francisco Quintero
